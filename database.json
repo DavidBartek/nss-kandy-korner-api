@@ -249,76 +249,65 @@
       "id": 1,
       "name": "Peppermint Candy",
       "typeId": 1,
-      "type": "Hard Candy",
       "unitPrice": 0.99
     },
     {
       "id": 2,
       "name": "Milk Chocolate Bar",
       "typeId": 2,
-      "type": "Chocolate",
       "unitPrice": 1.99
     },
     {
       "id": 3,
       "name": "Assorted Gummies",
       "typeId": 3,
-      "type": "Gummies",
       "unitPrice": 2.49
     },
     {
       "id": 4,
       "name": "Fruit Lollipop",
       "typeId": 1,
-      "type": "Hard Candy",
       "unitPrice": 0.79
     },
     {
       "id": 5,
       "name": "Dark Chocolate Truffles",
       "typeId": 2,
-      "type": "Chocolate",
       "unitPrice": 2.99
     },
     {
       "id": 6,
       "name": "Sour Worms",
       "typeId": 3,
-      "type": "Gummies",
       "unitPrice": 1.49
     },
     {
       "id": 7,
       "name": "Butterscotch Candy",
       "typeId": 1,
-      "type": "Hard Candy",
       "unitPrice": 0.89
     },
     {
       "id": 8,
       "name": "White Chocolate Bar",
       "typeId": 2,
-      "type": "Chocolate",
       "unitPrice": 1.79
     },
     {
       "id": 9,
       "name": "Cola Bottles",
       "typeId": 3,
-      "type": "Gummies",
       "unitPrice": 1.29
     },
     {
       "id": 10,
       "name": "Caramel Candy",
       "typeId": 1,
-      "type": "Hard Candy",
       "unitPrice": 0.99
     },
     {
       "name": "Warheads",
       "typeId": "1",
-      "type": "Hard Candy",
       "unitPrice": "5.00",
       "id": 11
     }
