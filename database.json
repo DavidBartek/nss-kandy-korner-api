@@ -89,6 +89,12 @@
       "name": "Popcorn Popsicle",
       "email": "popcorn.popsicle@example.com",
       "isStaff": false
+    },
+    {
+      "name": "Greg Korte",
+      "email": "greg@imoldgreg.com",
+      "isStaff": true,
+      "id": 16
     }
   ],
   "employees": [
@@ -136,6 +142,15 @@
       "email": "larry.lollipop@example.com",
       "startDate": "2022-05-01",
       "payRate": 24
+    },
+    {
+      "userId": 16,
+      "name": "Greg Korte",
+      "email": "greg@imoldgreg.com",
+      "locationId": "1",
+      "startDate": "2023-07-17",
+      "payRate": "18",
+      "id": 6
     }
   ],
   "customers": [
@@ -310,9 +325,21 @@
       "typeId": "1",
       "unitPrice": "5.00",
       "id": 11
+    },
+    {
+      "name": "Anthrax",
+      "typeId": "3",
+      "unitPrice": "0.01",
+      "id": 12
+    },
+    {
+      "name": "hi",
+      "typeId": "2",
+      "unitPrice": 0,
+      "id": 13
     }
   ],
-  "productTypes": [
+  "types": [
     {
       "id": 1,
       "type": "Hard Candy"
