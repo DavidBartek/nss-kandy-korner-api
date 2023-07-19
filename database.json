@@ -95,6 +95,12 @@
       "email": "greg@imoldgreg.com",
       "isStaff": true,
       "id": 16
+    },
+    {
+      "name": "Greg Korte",
+      "email": "greg@greg.com",
+      "isStaff": true,
+      "id": 17
     }
   ],
   "employees": [
@@ -142,15 +148,6 @@
       "email": "larry.lollipop@example.com",
       "startDate": "2022-05-01",
       "payRate": 24
-    },
-    {
-      "userId": 16,
-      "name": "Greg Korte",
-      "email": "greg@imoldgreg.com",
-      "locationId": "1",
-      "startDate": "2023-07-17",
-      "payRate": "18",
-      "id": 6
     }
   ],
   "customers": [
@@ -159,7 +156,7 @@
       "userId": 6,
       "name": "Candy Cane",
       "email": "candy.cane@example.com",
-      "loyaltyNumber": 12345
+      "loyaltyNumber": 99999
     },
     {
       "id": 2,
@@ -180,7 +177,7 @@
       "userId": 9,
       "name": "Cookie Monster",
       "email": "cookie.monster@example.com",
-      "loyaltyNumber": 24680
+      "loyaltyNumber": 24687
     },
     {
       "id": 5,
@@ -371,6 +368,36 @@
       "customerId": 3,
       "productId": 1,
       "productQuantity": 3
+    },
+    {
+      "customerId": 4,
+      "productId": 12,
+      "productQuantity": 1,
+      "id": 4
+    },
+    {
+      "customerId": 4,
+      "productId": 7,
+      "productQuantity": 1,
+      "id": 5
+    },
+    {
+      "customerId": 4,
+      "productId": 4,
+      "productQuantity": 1,
+      "id": 6
+    },
+    {
+      "customerId": 4,
+      "productId": 8,
+      "productQuantity": 1,
+      "id": 7
+    },
+    {
+      "customerId": 4,
+      "productId": 6,
+      "productQuantity": 1,
+      "id": 8
     }
   ]
 }
